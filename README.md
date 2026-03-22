@@ -124,35 +124,50 @@ Splash → Home → Details → Cart → Payment → Success ✅
 
 ### 🚀 Splash Screen
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/SpalshScreen.jpeg" width="50" alt=""/>
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/SpalshScreen.jpeg" width="300" alt=""/>
 </p>
 
 ---
 
-### 🏠 Home Screen
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/HomePage_AllScreen.jpeg" width="250" alt=""/>
-</p>
+### 🏠 Home Screen Categories
+<table align="center">
+  <tr>
+    <td align="center"><b>All Menu</b></td>
+    <td align="center"><b>Burgers</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/HomePage_AllScreen.jpeg" width="200" alt="All Menu"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/HomePage_BurgersScreen.jpeg" width="200" alt="Burgers"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ice Cream</b></td>
+    <td align="center"><b>Pizzas</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/HomePage_IceCreamsScreen.jpeg" width="200" alt="Ice Cream"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/HomePage_PizzasScreen.jpeg" width="200" alt="Pizzas"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 📄 Details Screen
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/DetailsScreen.jpeg" width="250" alt=""/>
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/DetailsScreen.jpeg" width="300" alt=""/>
 </p>
 
 ---
 
 ### 🛒 Cart Screen
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/CartScreen.jpeg" width="250" alt=""/>
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/CartScreen.jpeg" width="300" alt=""/>
 </p>
 
 ---
 
 ### 💳 Payment Screen
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/PaymentScreen.jpeg" width="250" alt=""/>
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/PaymentScreen.jpeg" width="300" alt=""/>
 </p>
 
 ## 🚀 Getting Started
