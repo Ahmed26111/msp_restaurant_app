@@ -166,9 +166,16 @@ Splash → Home → Details → Cart → Payment → Success ✅
 ---
 
 ### 💳 Payment Screen
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/PaymentScreen.jpeg" width="300" alt=""/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Payment Screen</b></td>
+    <td align="center"><b>DialogPaymentSuccessfully</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/PaymentScreen.jpeg" width="200" alt="Payment Screen"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/DialogPaymentSucces.jpeg" width="200" alt="Dialog Payment Successfully"/></td>
+  </tr>
+</table>
 
 ## 🚀 Getting Started
 
