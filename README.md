@@ -1,11 +1,11 @@
 # 🍽️ MSP Restaurant App
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Framework-blue?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Integrated-success?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-Framework-blue?style=for-the-badge&logo=flutter&logoColor=white"  alt=""/>
+  <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white"  alt=""/>
+  <img src="https://img.shields.io/badge/API-Integrated-success?style=for-the-badge&logo=fastapi&logoColor=white"  alt=""/>
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android&logoColor=white"  alt=""/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"  alt=""/>
 </p>
 
 ---
@@ -120,6 +120,40 @@ https://free-food-menus-api-two.vercel.app/
 Splash → Home → Details → Cart → Payment → Success ✅
 
 ---
+## 📸 Screenshots
+
+### 🚀 Splash Screen
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/SpalshScreen.jpeg" width="50" alt=""/>
+</p>
+
+---
+
+### 🏠 Home Screen
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/HomePage_AllScreen.jpeg" width="250" alt=""/>
+</p>
+
+---
+
+### 📄 Details Screen
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/DetailsScreen.jpeg" width="250" alt=""/>
+</p>
+
+---
+
+### 🛒 Cart Screen
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/CartScreen.jpeg" width="250" alt=""/>
+</p>
+
+---
+
+### 💳 Payment Screen
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed26111/msp_restaurant_app/main/images/PaymentScreen.jpeg" width="250" alt=""/>
+</p>
 
 ## 🚀 Getting Started
 
